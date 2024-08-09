@@ -1,5 +1,6 @@
-## Hi there 👋
+Hi, This is *Mio* (Pronoun: she/her).
 
+I don't have a GPG Key so you won't know messages under my name are from me or not.
 <!--
 **mio-19/mio-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌈 Love making sounds with musical instruments and dancing
+- 🔥 Mostly code in `Scala2 and Scala3` and `Java` but not limited to any specific language.
+- 🥰 Currently working on my personal projects. 

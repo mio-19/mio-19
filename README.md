@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I am interested on algebraic effects and practical type systems for everyday programming.
 - 🌈 Love making sounds with musical instruments and dancing
-- 🔥 Mostly code in `Scala2 and Scala3` and `Java` but not limited to any specific language.
+- 🔥 Mostly code in `Scala2 and 3` and `Java` but not limited to any specific language.
 - 🥰 Currently working on my personal projects.
 - ⚡ Favorite movie is Liz and the Blue Bird

@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 😿 I am struggling to live in this world
 - 🔭 I am interested on algebraic effects and practical type systems for everyday programming.
 - 🌈 Love making sounds with musical instruments and dancing
 - 🔥 Mostly code in `Scala2 and 3` and `Java` but not limited to any specific language.

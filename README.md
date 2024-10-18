@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😿 I am struggling to live in this world. My birthplace sucks
+- 😿 I am struggling to live in this world. My birthplace sucks.
+- 💬 I speak my second language, which is the most spoken second language. I used to learn Deutsch. Ich kann kein Deutsch sprechen.
 - 🔭 I am interested on algebraic effects and practical type systems for everyday programming.
-- 🌈 Love making sounds with musical instruments and dancing
-- 🔥 Mostly code in `Scala2 and 3` and `Java` but not limited to any specific language.
+- 🌈 Love making sounds with musical instruments and dancing.
+- 🔥 Mostly code in `Scala` but not limited to any specific language.
 - 🥰 Currently working on my personal projects.
-- ⚡ Favorite movie is Liz and the Blue Bird
+- ⚡ Favorite movie is Liz and the Blue Bird.

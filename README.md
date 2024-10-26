@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😿 I am struggling to live in this world. My birthplace sucks.
+- 😿 I want to study somewhere in Australia or New Zealand. But most people are in Europe and North America.
 - 💬 I speak my second language, which is the most spoken second language, which is this language. I used to learn Deutsch. Ich kann kein Deutsch sprechen.
-- 🔭 I am interested on algebraic effects and practical type systems for everyday programming.
+- 🔭 I am interested on algebraic effects and more
 - 🌈 Love making sounds with musical instruments and dancing.
 - 🔥 Mostly code in `Scala` but not limited to any specific language.
-- 🥰 Currently working on my personal projects.
+- 🥰 Currently working on my mental health and personal projects.
 - ⚡ Favorite movie is Liz and the Blue Bird.

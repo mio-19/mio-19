@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 🔭 I am interested on FP TT algebraic effects and more
 - 🌈 Love making sounds with musical instruments and dancing.
 - 🔥 Mostly code in `Scala` but not limited to any specific language.
-- 🥰 Currently working on my mental health and personal projects.
+- 🥰 Currently working on my mental wellbeing, family life and personal projects.
 - ⚡ Favorite movie is Liz and the Blue Bird.

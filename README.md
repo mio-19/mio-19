@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😿 mentally and physically ill. Mio can't sleep and cry all day this week
+- 😿 I hope my birthplace could be removed from this world. Traumas from my birthplace made me mentally and physically ill. Mio can't sleep and cry all day this week
 - 😿 I want to study somewhere in Australia or New Zealand. But most TT and FP people are in Europe and North America. T_T
 - 💬 I speak my second language, which is the most spoken second language, which is this language. I used to learn Deutsch. Ich kann kein Deutsch sprechen.
 - 🔭 I am interested on FP TT algebraic effects and more

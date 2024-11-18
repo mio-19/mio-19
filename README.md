@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 - 🔥 Mostly code in `Scala` but not limited to any specific language.
 - 🥰 Currently working on my mental wellbeing, relationships, family life and personal projects.
 - ⚡ Favorite movie is Liz and the Blue Bird.
+
+![1280px-月虹蝶_Cover.jpg](1280px-月虹蝶_Cover.jpg)

@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 😿 Mio can't sleep and cry all day this week
 - 😿 I want to study somewhere in Australia or New Zealand. But most TT and FP people are in Europe and North America. T_T
-- 💬 I speak my second language, which is the most spoken second language, which is this language. I used to learn Deutsch. Ich kann kein Deutsch sprechen. I don't identity with my first language or my country of birth. Please don’t speak my first language to me unless we know each other.
+- 💬 I speak my second language, which is the most spoken second language, which is this language. I used to learn Deutsch. Ich kann kein Deutsch sprechen. I don't identity with my first language or my country of birth. Please don’t speak my first language to me unless we know each other. My first language could be triggering for me.
 - 🔭 I am interested on FP TT algebraic effects and more
 - 🌈 Love making sounds with musical instruments and dancing.
 - 🔥 Mostly code in `Scala` but not limited to any specific language.

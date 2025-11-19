@@ -1,4 +1,4 @@
-Hi, This is *Mio* (Pronoun: she/her).
+Hi, This is *Mio* (Pronouns: she/her).
 
 I don't have a GPG Key so you won't know messages under my name are from me or not.
 <!--

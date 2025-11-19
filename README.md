@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 💬 I speak my second language, which is the most spoken second language, which is this language. I used to learn Deutsch. Ich kann kein Deutsch sprechen.
 - 🔭 I am interested on FP TT algebraic effects and more
-- 🌈 Love making sounds with musical instruments and dancing.
+- 🌈 Love musical instruments and dancing.
 - 🔥 ~~Mostly code in `Scala` but not limited to any specific language.~~ No more: scala compiler is too much for my computers
 - ⚡ Favorite movie is Liz and the Blue Bird.
 

@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 🔥 ~~Mostly code in `Scala` but not limited to any specific language.~~ No more: scala compiler is too much for my computers
 - ⚡ Favorite movie is Liz and the Blue Bird.
 
-Where is the button to opt out of the bad impact of LLM
+Where is the button to opt out of the bad impact of LLM on living costs

@@ -22,4 +22,8 @@ Here are some ideas to get you started:
 - 🔥 ~~Mostly code in `Scala` but not limited to any specific language.~~ No more: scala compiler is too much for my computers
 - ⚡ Favorite movie is Liz and the Blue Bird.
 
-Where is the button to opt out of the bad impact of LLM on living costs
+
+Where is the button to opt out of the bad impact of LLM on living costs? cannot find such a button :(
+
+
+I have delegated boring tasks to LLM; they do them wrong every time but if I let them check and recheck ten times, sometimes I get something look somewhat close to what I want. If this kind of quality is acceptable for a task and I need the task done but I do not actually want to do the task, fine, let it be LLM.

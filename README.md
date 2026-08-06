@@ -27,4 +27,4 @@ Where is the button to opt out of the bad impact of LLMs on living costs? I cann
 
 I have delegated boring tasks to LLMs; they do them wrong every time, but if I let them check and recheck ten times, sometimes I get something that looks somewhat close to what I want. If this kind of quality is acceptable for a task, and I need the task done but I do not actually want to do it myself, fine, let it be an LLM.
 
-If I know so little about a topic that I am more wrong than an LLM, but I need to know something to get a task done and I can't bother to learn it properly, and it does not hurt too much if I learn incorrect information, fine, let's ask an LLM.
+If I know so little about a topic that I am more wrong than an LLM, but I need to know something to get a task done and I do not bother to learn it properly, and it does not hurt too much if I learn incorrect information, fine, let's ask an LLM.

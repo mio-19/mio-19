@@ -1,1 +1,1 @@
-cannot afford healthcare
+cannot afford healthcare. the public healthcare covers nothing.
